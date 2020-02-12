@@ -136,11 +136,21 @@ The test from task 13 should now pass.
 The following questions are intended to be answered with written answers (no coding required) and should re-enforce some of the learning you have completed.
 
 1. Which part is the file extension of the package.json file?
+    - .json
 
 2. What does JSON stand for?
+    - javascript object notation
 
 3. What is the purpose of JSON?
+    - JSON is a syntax for storing and transferring data.
 
 4. What does the package.json file do?
+    - package.json is where all the code or packages needed for your program to run are listed, so npm knows what to install.
 
 5. What are some of the different 'types' that can be represented in JSON?
+    a string
+    a number
+    an object (JSON object)
+    an array
+    a boolean
+    null
